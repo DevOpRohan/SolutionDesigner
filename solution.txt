@@ -1,0 +1,162 @@
+
+
+***********************************
+Problem: problem_gmat_18
+***********************************
+===========SOLUTION==============
+The task requires finding the number of distinct prime factors greater than 1 in the product of integers from 1 to 8. 
+
+Prime numbers between 1 and 8 are 2, 3, 5, and 7. 
+
+Hence, the product of integers from 1 to 8 has four distinct prime factors greater than 1. 
+
+Answer: Four.
+
+***********************************
+Problem: problem_gmat_16
+***********************************
+===========SOLUTION==============
+Given equation: √(3-2x) = √(2x) + 1
+
+Square both sides: (3-2x) = (2x + 1)²
+
+Expand the right side: 3 - 2x = 4x² + 4x + 1
+
+Rearrange to form a quadratic equation: 4x² + 6x - 2 = 0
+
+Solve for x: x = 1/2 or x = 2
+
+Substitute x = 1/2 into the equation 4x²: 4*(1/2)² = 1
+Substitute x = 2 into the equation 4x²: 4*2² = 16
+
+Therefore, the correct answer is (B) 4.
+
+***********************************
+Problem: problem_gmat_15
+***********************************
+===========SOLUTION==============
+Prime numbers less than 20 are 2, 3, 5, 7, 11, 13, 17, and 19.
+
+Product of these prime numbers = 9699690.
+
+Comparing this product with powers of 10, it is closest to 10^7.
+
+Hence, the correct option is 10^7.
+
+***********************************
+Problem: problem_gmat_13
+***********************************
+===========SOLUTION==============
+Given, the ratio of s to t is 64.12, which is equivalent to 1603/25. 
+
+This implies s = 1603k and t = 25k, where k is any integer. 
+
+On dividing 1603 by 25, the remainder is 3, which is not in the given options. 
+
+The remainder when a number is divided by another is always less than the divisor, hence it should be less than 25. 
+
+From the options, 2, 4, 8, and 20 are less than 25. Among these, 20 is a possible remainder when s is divided by t. 
+
+Hence, the answer is 20.
+
+***********************************
+Problem: problem_gmat_22
+***********************************
+===========SOLUTION==============
+Given: Volume of water in the cylinder = 36 cubic inches, height of the cylinder = 9 inches, and the cylinder is half full.
+
+Using the formula for the volume of a cylinder, V = πr²h, where V is the volume, r is the radius, and h is the height. Since the cylinder is half full, the volume of the water is half the volume of the cylinder. So, we have:
+
+36 = 1/2 * πr² * 9
+
+Solving this equation for r, we get:
+
+r = ± (2 * √(2/π))
+
+Since the radius cannot be negative, we discard the negative solution. 
+
+The diameter of the cylinder is twice the radius, so the diameter is:
+
+2 * (2 * √(2/π)) = 4 * √(2/π)
+
+Therefore, the correct answer is (E) 4 * √(2/π).
+
+***********************************
+Problem: problem_gmat_19
+***********************************
+===========SOLUTION==============
+Given a triangle with sides of lengths 2, 7, and k, we need to find the integer values of k that satisfy the triangle inequality theorem. 
+
+The triangle inequality theorem states that the sum of the lengths of any two sides of a triangle must be greater than the length of the third side. This gives us three inequalities:
+
+1. 2 + 7 > k, which simplifies to k < 9.
+2. 2 + k > 7, which simplifies to k > 5.
+3. 7 + k > 2, which is always true as k is an integer.
+
+The intersection of these inequalities is 5 < k < 9. 
+
+However, we have an additional constraint that 2 < k < 7. So, the final range for k is 5 < k < 7.
+
+The only integer value of k in this range is 6.
+
+Therefore, there is only one value of k for which there is a triangle with sides of lengths 2, 7, and k. Hence, the answer is one.
+
+***********************************
+Problem: problem_gmat_17
+***********************************
+===========SOLUTION==============
+Given, n = √(16/81) = 4/9.
+
+Now, √n = √(4/9) = 2/3.
+
+Comparing this with the given options, we find it matches with option (d).
+
+Hence, the correct answer is (d) 2/3.
+
+***********************************
+Problem: cat_20_f (page no. 20, ques F)
+***********************************
+===========SOLUTION==============
+Given equation: x² - 6x + 4 = 0
+Roots: x = 3 - √5, x = 3 + √5
+
+Adding 2 to each root:
+New roots: x = 5 - √5, x = 5 + √5
+
+Forming new quadratic equation with roots a and b:
+x² - (a+b)x + ab = 0
+Substituting a = 5 - √5 and b = 5 + √5:
+x² - ((5 - √5) + (5 + √5))x + (5 - √5)(5 + √5) = 0
+
+Simplifying:
+Product (5 - √5)(5 + √5) = 20
+Substituting this into the equation:
+x² - 10x + 20 = 0
+
+Therefore, the quadratic equation whose roots are 2 more than the roots of the given equation is x² - 10x + 20 = 0.
+
+***********************************
+Problem: gmat_20
+***********************************
+===========SOLUTION==============
+Let the radius of the hemisphere and the height of the cone be 'r'. The slant height of the cone is the diameter of the hemisphere, which is '2r'.
+
+Forming a right triangle with the radius of the hemisphere (r), the slant height of the cone (2r), and the radius of the base of the cone (r), we apply the Pythagorean theorem:
+
+r² + r² = (2r)²
+
+Simplifying, we get:
+
+2r² = 4r²
+
+Further simplification gives:
+
+r² = 2r²
+
+Taking the square root of both sides, we find:
+
+r = √2 * r
+
+Hence, the ratio of the height of the cone (r) to the radius of the hemisphere (r) is 1:√2, which simplifies to √2:1. 
+
+Therefore, the correct answer is √2:1.
